@@ -22,12 +22,12 @@ https://whatsapp-web-clone-piyush-sati.netlify.app
   
 ## Features
 
-- Progressive Web App (PWA).
-- Fully responsive and mobile friendly.
-- State management using context api.
-- User authentication + sign in with google.
-- UI almost similar to whatsapp web.
-- Real time communication.
+- Progressive Web App (PWA)
+- Fully responsive and mobile friendly
+- State management using context api
+- User authentication + sign in with google
+- UI almost similar to whatsapp web
+- Real time communication
 
 
 ## Run Locally
