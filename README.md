@@ -16,6 +16,9 @@ https://whatsapp-web-clone-piyush-sati.netlify.app
 
 ![App Screenshot](https://i.ibb.co/X4SSHxQ/whatsapp-web-clone.gif)
 
+## Acknowledgements
+
+ - [sonny sangha](https://github.com/sonnysangha)
   
 ## Features
 
