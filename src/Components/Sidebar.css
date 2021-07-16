@@ -1,0 +1,113 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  flex: 0.35;
+}
+.sidebar__search {
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+  height: 39px;
+  padding: 10px;
+}
+.sidebar__searchContainer {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  width: 100%;
+  height: 35px;
+  border-radius: 20px;
+}
+.sidebar__searchContainer > .MuiSvgIcon-root {
+  color: gray;
+  padding: 10px;
+}
+.sidebar__searchContainer > input {
+  border: none;
+  margin-left: 10px;
+  border: none;
+  box-sizing: border-box;
+  min-width: 0;
+  /* font-weight: 400;
+  font-size: 15px;*/
+  outline: none;
+  will-change: width;
+}
+.sidebar__header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-right: 1px solid lightgray;
+}
+.sidebar__headerRight {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 10vw;
+}
+.sidebar__headerRight > .MuiSvgIcon-root {
+  margin-right: 2vw;
+  font-size: 24px !important;
+}
+.sidebar__chats {
+  background-color: white;
+  flex: 1;
+  overflow: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.sidebar__chats::-webkit-scrollbar {
+  display: none;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown__list {
+  display: block;
+  position: absolute;
+  top: 55px;
+  right: 20px;
+  font-size: 14px;
+  z-index: 1;
+}
+
+.dropdown__list .MuiSvgIcon-root {
+  font-size: inherit;
+  margin-right: 5px;
+}
+.hide {
+  display: none;
+}
+.dropdown ul {
+  border-radius: 5px;
+  width: 120px;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+.dropdown__list ul li {
+  list-style: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dropdown__list ul li:hover {
+  background-color: #eeeeee;
+}
+
+@media screen and (max-width: 630px) {
+  .sidebar {
+    flex: 1;
+  }
+  .side__bar {
+    display: none;
+  }
+  .sidebar__header {
+    padding-right: 10px;
+  }
+  .sidebar__header .MuiIconButton-root {
+    padding-right: 7px !important;
+  }
+}
