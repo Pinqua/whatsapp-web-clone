@@ -32,7 +32,7 @@ https://whatsapp-web-clone-piyush-sati.netlify.app
 Clone the project
 
 ```bash
-  git clone https://github.com/Pinqua/Netflix-Clone.git
+  git clone https://github.com/Pinqua/whatsapp-web-clone.git
 ```
 
 Go to the project directory
