@@ -9,7 +9,7 @@ Whatsapp web clone with whatsapp web like UI and functionalities build using rea
 
 ## Demo
 
-https://whatsapp-web-clone-piyush-sati.netlify.app
+https://whatsapp-web-clone-piyush-sati.vercel.app
 
 
 ## Screenshots
