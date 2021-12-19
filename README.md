@@ -27,7 +27,7 @@ https://whatsapp-web-clone-piyush-sati.vercel.app
 - State management using Context API
 - User authentication + sign in with Google
 - UI almost similar to Whatsapp web
-- Real time communication
+- Realtime communication
 
 
 ## Run Locally
