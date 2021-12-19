@@ -3,7 +3,7 @@
 
 # Whatsapp Web Clone
 
-Whatsapp web clone with whatsapp web like UI and functionalities built using react.js and firebase
+Whatsapp web clone with Whatsapp web like UI and functionalities built using React.js and Firebase
 
 ![Logo](https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg)
 
