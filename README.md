@@ -24,7 +24,7 @@ https://whatsapp-web-clone-piyush-sati.vercel.app
 
 - Progressive Web App (PWA)
 - Fully responsive and mobile friendly
-- State management using context api
+- State management using Context API
 - User authentication + sign in with google
 - UI almost similar to whatsapp web
 - Real time communication
