@@ -1,6 +1,4 @@
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
 # Whatsapp Web Clone
 
 Whatsapp web clone with Whatsapp web like UI and functionalities built using React.js and Firebase
