@@ -19,7 +19,8 @@
 
 Whatsapp web clone with Whatsapp web like UI and functionalities built using React.js and Firebase
 
-![Logo](https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg)
+<img src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg" height="200"  alt="" />
+
 
 ## Demo
 
