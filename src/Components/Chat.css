@@ -39,7 +39,7 @@
 .chat__message {
   position: relative;
   justify-content: space-between;
-  min-width: 120px;
+  min-width: 150px;
   padding: 7px;
   font-size: 14px;
   background-color: #ffffff;
